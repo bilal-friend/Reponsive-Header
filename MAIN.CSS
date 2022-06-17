@@ -31,6 +31,7 @@ header .logo {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  justify-content: center;
   margin: 10px 0;
 }
 .navigation li {
